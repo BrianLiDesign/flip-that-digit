@@ -16,6 +16,9 @@ The device is built for the interactive game “Flip That Digit.” The purpose 
 
 ### Built With
 
+![Assembly Badge](https://img.shields.io/badge/assembly-assembly?style=for-the-badge&color=darkblue)
+![SystemVerilog Badge](https://img.shields.io/badge/systemverilog-systemverilog?style=for-the-badge&color=lightblue)
+
 ## Getting Started
 
 ### Prerequisites
