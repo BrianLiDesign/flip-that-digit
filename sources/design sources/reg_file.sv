@@ -6,7 +6,8 @@
 //
 //////////////////////////////////////////////////////////////////////////////
 
-module RegFile(
+
+module RegFile (
     input logic en,
     input logic [4:0] addr1,
     input logic [4:0] addr2,

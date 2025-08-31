@@ -4,6 +4,8 @@
 // Engineer: Brian Li and Joshua Naim
 // Description: A debouncer and one-shot pulse generator for push-button inputs.
 ////////////////////////////////////////////////////////////////////////////////
+
+
 module debouncer_one_shot #(
     parameter int CLK_HZ   = 50_000_000,
     parameter int RISE_MS  = 5,   // min stable high time

@@ -7,7 +7,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module IMMED_GEN (
+module immed_gen (
   input  logic [31:7] IR,
   output logic [31:0] u_type,
   output logic [31:0] i_type,
