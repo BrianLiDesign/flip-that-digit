@@ -22,25 +22,25 @@ Since the score increases with every correct response, users can compete for hig
 
 ### Built With
 
-![Assembly Badge](https://img.shields.io/badge/assembly-assembly?style=for-the-badge&color=darkblue)
+![Assembly Badge][assembly-badge]
 
-![SystemVerilog Badge](https://img.shields.io/badge/systemverilog-systemverilog?style=for-the-badge&color=lightblue)
+![SystemVerilog Badge][systemverilog-badge]
 
-![RARS Badge](https://img.shields.io/badge/rars-rars?style=for-the-badge&color=orange)
+![RARS Badge][rars-badge]
 
-![Vivado Badge](https://img.shields.io/badge/vivado-vivado?style=for-the-badge&color=white)
+![Vivado Badge][vivado-badge]
 
 ## Getting Started
 
 ### Prerequisites
 
-- [Basys3 Board](https://digilent.com/shop/basys-3-amd-artix-7-fpga-trainer-board-recommended-for-introductory-users/) or any programmable device
+- [Basys3 Board][basys3-reference-manual-url] or any programmable device
 - Computer to connect
 - Micro-USB cable
 
 ### Installation
 
-1. Clone the rep
+1. Clone the repository
 
    ```git
    git clone https://github.com/BrianLiDesign/flip-that-digit.git
@@ -86,3 +86,11 @@ Brian Li - <brian.li.social@gmail.com>
 
 - Joshua Naim, co-engineer
 - Digilent - hardware and images
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[assembly-badge]: https://img.shields.io/badge/assembly-assembly?style=for-the-badge&color=darkblue
+[basys3-reference-manual-url]: https://digilent.com/shop/basys-3-amd-artix-7-fpga-trainer-board-recommended-for-introductory-users/
+[rars-badge]: https://img.shields.io/badge/rars-rars?style=for-the-badge&color=orange
+[systemverilog-badge]: https://img.shields.io/badge/systemverilog-systemverilog?style=for-the-badge&color=lightblue
+[vivado-badge]: https://img.shields.io/badge/vivado-vivado?style=for-the-badge&color=white
