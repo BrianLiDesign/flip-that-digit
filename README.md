@@ -7,9 +7,9 @@ A simple game to flip the switch corresponding to the number displayed.
 ## Table of Contents
 
 1. [Project Description](#project-description)
+2. [Getting Started](#getting-started)
    - [Prerequisites](#prerequisites)
    - [Installation](#installation)
-2. [Getting Started](#getting-started)
 3. [Usage](#usage)
 4. [Contact](#contact)
 5. [Acknowledgments](#acknowledgments)
